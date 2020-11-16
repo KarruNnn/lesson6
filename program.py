@@ -11,4 +11,4 @@ def v2():
 
 @app.route('/karrun')
 def karrun():
-    return 'karrun'
+    return 'Hello from CI with GitHub Actions by Dobrus'
